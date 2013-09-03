@@ -32,5 +32,11 @@
 		<artifactId>fastjson</artifactId>
 		<version>1.1.35</version>
 	</dependency>
+	<dependency>
+		<groupId>net.sf.json-lib</groupId>
+		<artifactId>json-lib</artifactId>
+		<version>2.3</version>
+		<classifier>jdk15</classifier>
+	</dependency>
   </dependencies>
 </project>
